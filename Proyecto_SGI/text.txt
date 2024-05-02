@@ -1,0 +1,43 @@
+INTERFACES A DESARROLLAR
+1. Register: 
+En esta interfaz el nuevo usuario deberá registrarse para tener 
+acceso al sistema de inventarios.
+2. Login: 
+El usuario registrado deberá ingresar sus credenciales para acceder al 
+sistema.
+3. Búsqueda por código: 
+El usuario podrá realizar una búsqueda si conoce el 
+código del equipo informático que desea encontrar.
+4. Búsqueda manual: 
+El usuario podrá realizar una búsqueda manual 
+explorando las facultades y laboratorios que tengas disponibles equipos 
+informáticos. 
+5. Emitir reportes: 
+El usuario podrá emitir reportes de existencias según filtros y 
+sobre personal encargado.
+6. Interfaz para dar de baja: 
+El administrador podrá dar de baja categorías o 
+existencias de equipos informáticos. 
+7. Interfaz de edición: 
+El administrador podrá editar categorías o existencias de 
+equipos informáticos.
+8. Interfaz para agregar: 
+El administrador podrá agregar categorías o existencias 
+de equipos informáticos.
+9. Dashboard general de los equipos informáticos: 
+Pantalla donde se verá de 
+manera general un conteo de todos los equipos informáticos disponibles dentro 
+de la Universidad.
+10. Configuración del sistema: 
+En este apartado se podrá personalizar el 
+sistema, el usuario podrá elegir colores del sistema o usar un modo nocturno
+
+
+
+
+dia 1
+html y css de register
+html y css de login
+
+dia 2
+diseño del menu desplegable
